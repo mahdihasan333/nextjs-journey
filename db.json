@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Dell XPS 15 Laptop",
+      "category": "Laptop",
+      "brand": "Dell",
+      "price": 1899,
+      "image": "https://www.pcworld.com/wp-content/uploads/2023/05/dell-xps-15.jpg"
+    },
+    {
+      "id": 2,
+      "product_name": "MacBook Air M2",
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "https://www.pcworld.com/wp-content/uploads/2022/07/macbook-air-m2-hero.jpg"
+    },
+    {
+      "id": 3,
+      "product_name": "Logitech MX Master 3S Mouse",
+      "category": "Accessories",
+      "brand": "Logitech",
+      "price": 99,
+      "image": "https://www.pcworld.com/wp-content/uploads/2022/09/logitech-mx-master-3s.jpg"
+    },
+    {
+      "id": 4,
+      "product_name": "Samsung Odyssey G9 Monitor",
+      "category": "Monitor",
+      "brand": "Samsung",
+      "price": 1499,
+      "image": "https://www.pcworld.com/wp-content/uploads/2021/01/samsung-odyssey-g9.jpg"
+    },
+    {
+      "id": 5,
+      "product_name": "Razer BlackWidow V4 Pro Keyboard",
+      "category": "Accessories",
+      "brand": "Razer",
+      "price": 229,
+      "image": "https://www.pcworld.com/wp-content/uploads/2023/03/razer-blackwidow-v4-pro.jpg"
+    },
+    {
+      "id": 6,
+      "product_name": "Asus ROG Strix RTX 4090 GPU",
+      "category": "Graphics Card",
+      "brand": "Asus",
+      "price": 2499,
+      "image": "https://www.pcworld.com/wp-content/uploads/2022/10/asus-rog-rtx-4090.jpg"
+    }
+  ]
+}
