@@ -5,10 +5,11 @@ import Link from "next/link";
 
 
 export default function ProductCard({product}: {product: IProduct}) {
+    console.log(product);
     return(
         <div className="bg-white shadow-lg rounded-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
             <div className="relative w-full h-52 object-contain">
-                <Image 
+                <Image
                 src={product.image}
                 alt={product.product_name}
                 width={1500}
