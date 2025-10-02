@@ -11,6 +11,9 @@ const Navbar = () => {
         </div>
 
         <div className="flex space-x-6">
+          <Link href="/products" className="hover:text-gray-300">
+            Products
+          </Link>
           <Link href="/about" className="hover:text-gray-300">
             About
           </Link>
