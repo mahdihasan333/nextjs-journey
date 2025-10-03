@@ -2,6 +2,8 @@
 
 import { useEffect } from "react";
 
+
+
 const ErrorPage = ({error, reset}: {error: Error & {digest?: string}
     reset: () => void}) => {
         useEffect(() => {
