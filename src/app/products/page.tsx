@@ -1,4 +1,4 @@
-import ProductCard from "@/components/products/ProductCard";
+import ProductCard from "@/components/Products/ProductCard";
 import { IProduct } from "@/type";
 
 const ProductsPage = async () => {
